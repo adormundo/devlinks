@@ -45,7 +45,7 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 ## 🧑🏼‍🎓 Certificado
 <p align="center">
-  <img alt="certificado DevLinks" src=".github/certificado.jpg" width="100%">
+  <img alt="certificado DevLinks" src=".github/certificate.jpg" width="100%">
 </p>
 
 ## :memo: Licença
